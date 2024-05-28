@@ -1,0 +1,13 @@
+name = "Better vanilla"
+author = "TheHolyTachanka"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "cc51654cc49614cee0faf7e91585a01f763e1698c947df85585a6e9802e96994"
+
+[versions]
+fabric = "0.15.11"
+minecraft = "1.20.4"

@@ -1,0 +1,106 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "e2c268027d63e997ef750bcbc76e9ee29c775b7121a0be28a121bc4f332a7092"
+metafile = true
+
+[[files]]
+file = "mods/chunky.pw.toml"
+hash = "6211df918f9c91638c0e6e56361192afcd60d336b95687e4766540f9d2b6f118"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "f250d6778f5b8d03ca32913bea5ea677508e9bb6d8201cdebe005bbe9c3100ee"
+metafile = true
+
+[[files]]
+file = "mods/explorify.pw.toml"
+hash = "930f3c6ba869160e03c602b88bdb07cc1e994f8dab353f8df084c076219d701c"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "07e0e6a791f94db3ff245a16ba014936e35410fe0ee9aba9cbac2deee25f5a70"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "4146027b92b4885fddec00435233c61c3728b5e09265982ab187021519a4fa89"
+metafile = true
+
+[[files]]
+file = "mods/geophilic.pw.toml"
+hash = "0b1de01497b02a6d539b6f7689df2359e7be4187acef8287af83b946030fd8b0"
+metafile = true
+
+[[files]]
+file = "mods/memoryleakfix.pw.toml"
+hash = "3c0945a312aca06a2185b00cb03ae482949b008d72614497148aa2df301af019"
+metafile = true
+
+[[files]]
+file = "mods/noisium.pw.toml"
+hash = "4e87ee9b05c48cf4ca532f455de6d21d1c7c6adae8f90f9020d7ca0a159472b9"
+metafile = true
+
+[[files]]
+file = "mods/yungs-api.pw.toml"
+hash = "c1f303e748533026bac66512ca2986c269563c53a33a3ffeef2da2bbfb1a6347"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-desert-temples.pw.toml"
+hash = "e4e1a3a313486fd8c55015821aac3b63ef3665963d0776eabbb02de0d3e9a2b0"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-dungeons.pw.toml"
+hash = "63b11974f32b3deb4f97382bed57ab1c23eede663ed8e981d1ef14e819756758"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-end-island.pw.toml"
+hash = "a481d0a04db1bce7b18dc671dd2188b53bf1a9e7c59c63e86c1c227f6cc19736"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-jungle-temples.pw.toml"
+hash = "f687a0b9c5517ed88c4d0578af469a409ce7034fb520eb2d6413a106b602a6b6"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-mineshafts.pw.toml"
+hash = "d5f77e6d2168e55ab8ae3b979d2c105e576362c4998f847d03aee87d77af1826"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-nether-fortresses.pw.toml"
+hash = "783a506000383140349e604b37b602e045d38047024987a21b62c9a9ccb6d69e"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-ocean-monuments.pw.toml"
+hash = "44a25e783b0120f35cb08bd4765bf86db3d88216f649abdd26026cd6f626b6cf"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-strongholds.pw.toml"
+hash = "3121483f77e6795b7b92e2396a8dd113fd475d550c15a2e45f2eb262d38cd746"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-witch-huts.pw.toml"
+hash = "8f224516fc97891bd5afbfb890adfe0f10ce37b2ce6df6963513fe71e4da6803"
+metafile = true
+
+[[files]]
+file = "mods/yungs-bridges.pw.toml"
+hash = "3e196c1b30586d8fbcf576cb87f0d9052d9e3bc102e873ab2e3b4dad49a6b7b5"
+metafile = true
+
+[[files]]
+file = "mods/yungs-extras.pw.toml"
+hash = "b2481525fb76c244d1b475202feb14782ba0a8b6413debb4db84fd10fc691988"
+metafile = true
