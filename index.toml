@@ -41,11 +41,6 @@ hash = "3c0945a312aca06a2185b00cb03ae482949b008d72614497148aa2df301af019"
 metafile = true
 
 [[files]]
-file = "mods/noisium.pw.toml"
-hash = "4e87ee9b05c48cf4ca532f455de6d21d1c7c6adae8f90f9020d7ca0a159472b9"
-metafile = true
-
-[[files]]
 file = "mods/yungs-api.pw.toml"
 hash = "c1f303e748533026bac66512ca2986c269563c53a33a3ffeef2da2bbfb1a6347"
 metafile = true
