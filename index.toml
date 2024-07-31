@@ -6,7 +6,7 @@ hash = "573e912d38645adf27acbfb03fd33329c3efba125b1ad1fc459e7f1249274b10"
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "e2c268027d63e997ef750bcbc76e9ee29c775b7121a0be28a121bc4f332a7092"
+hash = "1536d819cbc31660c69849ac9a6cc920cf2cef56cd6b20f94e031dd45547bfa0"
 metafile = true
 
 [[files]]
@@ -21,12 +21,17 @@ metafile = true
 
 [[files]]
 file = "mods/explorify.pw.toml"
-hash = "930f3c6ba869160e03c602b88bdb07cc1e994f8dab353f8df084c076219d701c"
+hash = "2362f0d0bc9c31ff7bf6a0ddab29cf4122f8c381610c8da5e19fa4b6ab7c1b44"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "07e0e6a791f94db3ff245a16ba014936e35410fe0ee9aba9cbac2deee25f5a70"
+hash = "fe7dbe82cf758cc6a73e96f57229e6be3696588388da757fbd936ac8c08c224f"
+metafile = true
+
+[[files]]
+file = "mods/faster-random.pw.toml"
+hash = "31cd9b39f38befed65a8607df20ab6f5e3f43cdf260829d7fc56e400fad12924"
 metafile = true
 
 [[files]]
@@ -35,13 +40,38 @@ hash = "4146027b92b4885fddec00435233c61c3728b5e09265982ab187021519a4fa89"
 metafile = true
 
 [[files]]
+file = "mods/formations.pw.toml"
+hash = "7eff94e93f878606a0b7cf5fddd6a90bb0b94bc6afd09afab08863ee7b4d5fcb"
+metafile = true
+
+[[files]]
 file = "mods/geophilic.pw.toml"
-hash = "0b1de01497b02a6d539b6f7689df2359e7be4187acef8287af83b946030fd8b0"
+hash = "686e90c9d7a1232f57f454e57a1f1489b986144faf2d42984a183df507024621"
 metafile = true
 
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "3c0945a312aca06a2185b00cb03ae482949b008d72614497148aa2df301af019"
+metafile = true
+
+[[files]]
+file = "mods/mes-moogs-end-structures.pw.toml"
+hash = "4328ca91b7661092d85beba0ecb45170ec6c1329520325757884f864160bbe67"
+metafile = true
+
+[[files]]
+file = "mods/monsters-in-the-closet.pw.toml"
+hash = "86a9c0b8a721fd8396af88c3b0a304f8cddaff42b7b27c192a5c88277664df9b"
+metafile = true
+
+[[files]]
+file = "mods/servercore.pw.toml"
+hash = "09bf4b5fc20ed7900078f886b5a73beb0d4a459ca71b1df1bff7da71efd844a2"
+metafile = true
+
+[[files]]
+file = "mods/unnamed-deserts.pw.toml"
+hash = "99d0045483d4d9f16b815cd846ebb89b325ccf4455e22f1b380f9703bc92d418"
 metafile = true
 
 [[files]]

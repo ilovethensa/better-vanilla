@@ -1,0 +1,13 @@
+name = "Formations (Structure Library)"
+filename = "formations-1.0.2-fabric-mc1.20.4.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/tPe4xnPd/versions/cFQMTsQ0/formations-1.0.2-fabric-mc1.20.4.jar"
+hash-format = "sha1"
+hash = "2389a18092fee0a3b466f1f7ebbf5d5bb91af28c"
+
+[update]
+[update.modrinth]
+mod-id = "tPe4xnPd"
+version = "cFQMTsQ0"
