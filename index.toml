@@ -50,6 +50,11 @@ hash = "686e90c9d7a1232f57f454e57a1f1489b986144faf2d42984a183df507024621"
 metafile = true
 
 [[files]]
+file = "mods/geyser.pw.toml"
+hash = "0ffd980bc57dffed4595019db76b15690769a02ba60b6e142823e7ea99f58e92"
+metafile = true
+
+[[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "3c0945a312aca06a2185b00cb03ae482949b008d72614497148aa2df301af019"
 metafile = true
