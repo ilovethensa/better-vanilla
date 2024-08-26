@@ -55,6 +55,11 @@ hash = "0ffd980bc57dffed4595019db76b15690769a02ba60b6e142823e7ea99f58e92"
 metafile = true
 
 [[files]]
+file = "mods/image2map.pw.toml"
+hash = "f17b99d6f020af183ef6186d2182dc9281e03fced5fe24a6179427e3525b5d6f"
+metafile = true
+
+[[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "3c0945a312aca06a2185b00cb03ae482949b008d72614497148aa2df301af019"
 metafile = true
@@ -67,6 +72,11 @@ metafile = true
 [[files]]
 file = "mods/monsters-in-the-closet.pw.toml"
 hash = "86a9c0b8a721fd8396af88c3b0a304f8cddaff42b7b27c192a5c88277664df9b"
+metafile = true
+
+[[files]]
+file = "mods/safeserver.pw.toml"
+hash = "a55f5543d4c82dfeff1d9f283254c0ec36633e6be4c3494ab816157e5266edd0"
 metafile = true
 
 [[files]]
