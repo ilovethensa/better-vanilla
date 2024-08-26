@@ -6,7 +6,7 @@ hash = "573e912d38645adf27acbfb03fd33329c3efba125b1ad1fc459e7f1249274b10"
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "1536d819cbc31660c69849ac9a6cc920cf2cef56cd6b20f94e031dd45547bfa0"
+hash = "f4890f49a04d3544634ec7a4a5d6aa31a3c3cd10d1c68db18d38a74a764bbfb7"
 metafile = true
 
 [[files]]
@@ -26,7 +26,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "fe7dbe82cf758cc6a73e96f57229e6be3696588388da757fbd936ac8c08c224f"
+hash = "dc16bea52f249d03468c8f34ca625b089f163917dbed55ff785a9c09ebe39d3a"
 metafile = true
 
 [[files]]
@@ -46,7 +46,7 @@ metafile = true
 
 [[files]]
 file = "mods/geophilic.pw.toml"
-hash = "686e90c9d7a1232f57f454e57a1f1489b986144faf2d42984a183df507024621"
+hash = "0b20ffa61c1bd741aeb720c397ea91367662d8523b421faf26081a02b8410c05"
 metafile = true
 
 [[files]]
@@ -91,7 +91,7 @@ metafile = true
 
 [[files]]
 file = "mods/unnamed-deserts.pw.toml"
-hash = "99d0045483d4d9f16b815cd846ebb89b325ccf4455e22f1b380f9703bc92d418"
+hash = "d9279458ea7cd10f608030c5eebe420ecb16826d7b7f86d8dbc23e6c99dc2b37"
 metafile = true
 
 [[files]]
