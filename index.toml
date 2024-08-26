@@ -75,6 +75,11 @@ hash = "09bf4b5fc20ed7900078f886b5a73beb0d4a459ca71b1df1bff7da71efd844a2"
 metafile = true
 
 [[files]]
+file = "mods/skinrestorer.pw.toml"
+hash = "e55157a291fc6bbe55bc2e7f55f792eabc005562c2c67148b8c859f74be201f3"
+metafile = true
+
+[[files]]
 file = "mods/unnamed-deserts.pw.toml"
 hash = "99d0045483d4d9f16b815cd846ebb89b325ccf4455e22f1b380f9703bc92d418"
 metafile = true
