@@ -75,6 +75,11 @@ hash = "86a9c0b8a721fd8396af88c3b0a304f8cddaff42b7b27c192a5c88277664df9b"
 metafile = true
 
 [[files]]
+file = "mods/safeserver.pw.toml"
+hash = "a55f5543d4c82dfeff1d9f283254c0ec36633e6be4c3494ab816157e5266edd0"
+metafile = true
+
+[[files]]
 file = "mods/servercore.pw.toml"
 hash = "09bf4b5fc20ed7900078f886b5a73beb0d4a459ca71b1df1bff7da71efd844a2"
 metafile = true
